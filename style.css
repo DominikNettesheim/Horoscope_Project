@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    vertical-align: top;
+    background-image: url("http://images.all-free-download.com/images/graphicthumb/white_lace_with_colored_background_vector_set_579859.jpg");
+}
+#horoscope {
+    font-family: cursiva, cursive;
+    font-size: 30px;
+}
+#zodiac{
+    font-family: cursiva, cursive;
+    font-size: 30px;
+}
+#message{
+    font-family: Lobster, cursive;
+    font-size: 20px;
+}
